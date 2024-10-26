@@ -14,7 +14,8 @@
         android:layout_height="wrap_content"
         android:contentDescription="@string/descricao_imagem_cadastro"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/img_editar_cadastro" />
+        app:srcCompat="@drawable/img_editar_cadastro"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/textView"
@@ -24,7 +25,8 @@
         android:textSize="15sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="36dp"
-        tools:layout_editor_absoluteY="232dp" />
+        tools:layout_editor_absoluteY="232dp"
+        tools:ignore="MissingConstraints" />
 
     <androidx.appcompat.widget.AppCompatEditText
         android:id="@+id/editTextText1"
@@ -37,7 +39,8 @@
         android:padding="16dp"
         android:textSize="12sp"
         tools:layout_editor_absoluteX="32dp"
-        tools:layout_editor_absoluteY="252dp" />
+        tools:layout_editor_absoluteY="252dp"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/textView3"
@@ -47,7 +50,8 @@
         android:textSize="15sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="192dp"
-        tools:layout_editor_absoluteY="312dp" />
+        tools:layout_editor_absoluteY="312dp"
+        tools:ignore="MissingConstraints" />
 
     <androidx.appcompat.widget.AppCompatEditText
         android:id="@+id/editTextText3"
@@ -60,7 +64,8 @@
         android:padding="15dp"
         android:textSize="12sp"
         tools:layout_editor_absoluteX="190dp"
-        tools:layout_editor_absoluteY="332dp" />
+        tools:layout_editor_absoluteY="332dp"
+        tools:ignore="MissingConstraints" />
 
     <androidx.appcompat.widget.AppCompatEditText
         android:id="@+id/editTextText2"
@@ -73,7 +78,8 @@
         android:padding="15dp"
         android:textSize="12sp"
         tools:layout_editor_absoluteX="32dp"
-        tools:layout_editor_absoluteY="332dp" />
+        tools:layout_editor_absoluteY="332dp"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/textView5"
@@ -83,7 +89,8 @@
         android:textSize="15sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="36dp"
-        tools:layout_editor_absoluteY="384dp" />
+        tools:layout_editor_absoluteY="384dp"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/textView6"
@@ -93,7 +100,8 @@
         android:textSize="15sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="192dp"
-        tools:layout_editor_absoluteY="384dp" />
+        tools:layout_editor_absoluteY="384dp"
+        tools:ignore="MissingConstraints" />
 
     <androidx.appcompat.widget.AppCompatEditText
         android:id="@+id/editTextText6"
@@ -106,7 +114,8 @@
         android:padding="12dp"
         android:textSize="12sp"
         tools:layout_editor_absoluteX="189dp"
-        tools:layout_editor_absoluteY="404dp" />
+        tools:layout_editor_absoluteY="404dp"
+        tools:ignore="MissingConstraints" />
 
     <androidx.appcompat.widget.AppCompatEditText
         android:id="@+id/editTextText5"
@@ -119,7 +128,8 @@
         android:padding="15dp"
         android:textSize="12sp"
         tools:layout_editor_absoluteX="32dp"
-        tools:layout_editor_absoluteY="404dp" />
+        tools:layout_editor_absoluteY="404dp"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/textView2"
@@ -129,7 +139,8 @@
         android:textSize="15sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="36dp"
-        tools:layout_editor_absoluteY="312dp" />
+        tools:layout_editor_absoluteY="312dp"
+        tools:ignore="MissingConstraints" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button1"
